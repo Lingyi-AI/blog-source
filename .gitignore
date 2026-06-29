@@ -1,0 +1,13 @@
+# Hexo自动生成产物，无需备份
+public/
+.deploy_git/
+db.json
+*.log
+tmp/
+# Node依赖，可通过npm install恢复，不上传
+node_modules/
+# 系统缓存文件
+Thumbs.db
+.DS_Store
+# VSCode编辑器缓存（可选）
+.vscode/
